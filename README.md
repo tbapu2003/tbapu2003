@@ -45,29 +45,3 @@
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=msexcel&logoColor=white" />
 </p>
 
---------------------------------
-
-<h3 align="left">I am currently working on...</h3>
-
-<div align="left">
-  <strong>Boyfriend Camera App 📸</strong> – an iOS mobile application I'm developing with my teammate <strong>John Chmura</strong>. This app is designed to help boyfriends, who are infamously known for not taking pictures or capturing memories of their girlfriends, effortlessly snap beautiful photos without the hassle of having to learn photography techniques.
-  <br><br>
-  My teammate John Chmura and I believe that this app taps into an undiscovered market niche that allows the boyfriends capture stunning photos of their girlfriends without the pressure of mastering advanced photography techniques or dealing with overly complex apps.
-</div>
-
-<hr>
-
-<strong>Key Features & Potential:</strong>
-<ul>
-  <li>🎨 Interactive filters and AR effects for creative photo experiences.</li>
-  <li>🖼️ Automatically frames photos using basic photography techniques like the rule of thirds, leading lines, and optimal lighting angles.</li>
-  <li>🔗 Social sharing capabilities that help couples connect and share memories.</li>
-</ul>
-
-<strong>Main Languages & Libraries:</strong>
-<ul>
-  <li>🛠️ <strong>Swift</strong> – Primary language for iOS development.</li>
-  <li>⚡ <strong>SwiftUI</strong> – For building a modern, responsive user interface.</li>
-  <li>🎥 <strong>AVFoundation</strong> – To power advanced camera functionalities and multimedia processing.</li>
-  <li>🐍 <strong>Python</strong> – For the backend using <strong>FastAPI</strong> and <strong>MediaPipe</strong> to process image analytics and enhance photography features.</li>
-</ul>
